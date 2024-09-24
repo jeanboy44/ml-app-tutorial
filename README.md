@@ -38,6 +38,11 @@ python version: 3.12
     ```
     conda create -n ml-app python=3.12.3
     ```
+1. 가상 환경 실행
+    ```
+    conda activate ml-app
+    ```
+
 1. 필수 패키지 설치
     ```
     pip install -r requirements.txt
